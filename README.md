@@ -1,4 +1,4 @@
-# Audio Style Transfer using a CNN
+# Audio Style Transfer with CNNs
 
 This is an implementation of the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) as well as an implementation of [vadim-v-levbedev's code](https://github.com/vadim-v-lebedev/audio_style_tranfer) using Tensorflow
 
