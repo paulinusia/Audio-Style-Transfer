@@ -7,7 +7,7 @@ This implementation runs on CPU only.
 The songs tested were Circle of Life from The Lion King soundtrack, and All My Life by the Foo Fighters. Both of these songs have a similar BPM and key.
 The results can be summed up by the image below:
 
-![results](# "Results")
+![results](https://github.com/paulinusia/Audio-Style-Transfer/blob/master/img/result.png "Results")
 
 ### Dependencies
  - python 3.5
