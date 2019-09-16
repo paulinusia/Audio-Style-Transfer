@@ -10,9 +10,9 @@ The results can be summed up by the image output below:
 
 ### Dependencies
  - Python 3.5
- - tensorflow
- - librosa
- - numpy
- - matplotlib
+ - Tensorflow
+ - Librosa
+ - Numpy
+ - Matplotlib
 
 
