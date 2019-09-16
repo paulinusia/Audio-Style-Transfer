@@ -10,7 +10,7 @@ The results can be summed up by the image below:
 ![results](https://github.com/paulinusia/Audio-Style-Transfer/blob/master/img/result.png "Results")
 
 ### Dependencies
- - python 3.5
+ - Python 3.5
  - tensorflow
  - librosa
  - numpy
